@@ -1,0 +1,13 @@
+p {
+  text-align: justify;
+}
+
+div img {
+  float: left;
+  width: 200pt;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}
